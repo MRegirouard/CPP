@@ -1,0 +1,15 @@
+What is 8 divided by 2?
+4
+6
+1
+2
+What is 2 to the power of 3?
+8
+6
+4
+2
+How many million miles away is the the sun?
+93
+81
+107
+42
