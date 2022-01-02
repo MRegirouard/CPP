@@ -1,0 +1,4 @@
+this is a test input
+
+the blank line should disappear
+spaces should also disappear
