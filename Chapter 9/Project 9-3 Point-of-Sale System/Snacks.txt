@@ -1,0 +1,13 @@
+1.07
+Sandwitch
+3
+Chips
+2
+Pickle
+1
+Brownie
+2
+Regular drink
+1
+Large drink
+2
